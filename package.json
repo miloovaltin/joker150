@@ -1,0 +1,16 @@
+{
+"name": "joker150",
+"theme": "joker150",
+"version": "7.4.10",
+"description": "joker150 สมัครเว็บพนันเว็บตรง อันดับ 1 ให้โบนัสเครดิตฟรี",
+"keywords": [
+"joker150",
+"joker150 เครดิตฟรี",
+"joker150 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker150",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
